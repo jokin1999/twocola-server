@@ -4,4 +4,4 @@
 
 ## 支持项目列表
 
-- [PrivacyCloud](https://github.com/jokin1999/PrivacyCloud)
+- [狐云 FoxPan](https://github.com/jokin1999/FoxPan)
