@@ -1,0 +1,6 @@
+{
+  "server": "tserver",
+  "support": [
+    "FoxPan"
+  ]
+}
