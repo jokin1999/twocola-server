@@ -1,7 +1,8 @@
 {
   "project": "FoxPan",
   "server": [
-    "http:\/\/jokin1999.github.io\/FoxPan"
+    "https:\/\/jokin.coding.me\/FoxPan"
+    "https:\/\/jokin1999.github.io\/FoxPan"
   ],
   "plugins": [
     "wallpaper"
