@@ -3,6 +3,8 @@
   "server": [
     "http:\/\/jokin1999.github.io\/FoxPan"
   ],
-  "plugins": false,
+  "plugins": [
+    "wallpaper"
+  ],
   "tpserver": true
 }
