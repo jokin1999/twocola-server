@@ -6,7 +6,7 @@
 |:-:|:-:|:-:|
 |project|项目名称|string|
 |server|服务器地址|array|
-|plugins|插件支持|boolean|
+|plugins|插件支持|`boolean`/`array`|
 |tpserver|独立服务支持|boolean|
 
 ---
